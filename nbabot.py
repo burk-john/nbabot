@@ -432,4 +432,4 @@ async def on_message(message):
 async def close(ctx):
     await client.close()
 
-client.run('ODYyMDA2ODcwODM1NTkzMjI3.YOSEdQ._TY5KP6ERQZwsDZh-QC6oqbWBgE')
+client.run('')
